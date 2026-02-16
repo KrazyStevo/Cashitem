@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'SiiKStevo x ChatGPT'
+author 'SiiKStevo'
 description 'Cash as Item (sync QB cash <-> inventory item) for CodeM Bank v2 + JPR Inventory'
 version '1.0.0'
 
